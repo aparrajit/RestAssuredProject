@@ -1,0 +1,12 @@
+com\restapi\PostReq.class
+com\git\getallrepo.class
+com\restapi\GetRequestWithParam.class
+com\restapi\PostReqWithJsonFile.class
+com\restapi\PutReq.class
+com\restapi\PostReqHashMap.class
+restapi\BDD\getreq.class
+com\restapi\DeleteReq.class
+com\git\DeleteRepo.class
+com\restapi\GetRequest.class
+com\restapiXml\XmlTest.class
+com\git\CreateRepoUsingAuth.class
